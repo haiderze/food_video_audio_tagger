@@ -135,14 +135,3 @@ A Flask-based application for tagging food-related videos by analyzing both visu
 - Audio classification is limited to the labels provided by the AST model.
 - Ensure sufficient disk space for temporary files during processing.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/haiderze/food_video_audio_tagger).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Footer
-
-© 2025 GitHub, Inc.
