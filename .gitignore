@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Except these files/folders
+!.gitignore
+!README.md
+!routes/
+!routes/**
+!services/
+!services/**
+!dockerfile
+!requirements.txt
+
+
+services/__pycache__
+routes/__pycache__

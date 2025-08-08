@@ -1,0 +1,14 @@
+flask
+ffmpeg-python
+opencv-python
+numpy
+Pillow
+torch
+transformers
+flasgger
+torch
+transformers
+Pillow
+torchaudio 
+datasets
+librosa
